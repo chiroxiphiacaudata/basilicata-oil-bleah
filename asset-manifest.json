@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/cat/static/css/main.45d96616.chunk.css",
-    "main.js": "/cat/static/js/main.d6356e58.chunk.js",
-    "main.js.map": "/cat/static/js/main.d6356e58.chunk.js.map",
+    "main.css": "/cat/static/css/main.e8a2865f.chunk.css",
+    "main.js": "/cat/static/js/main.93916035.chunk.js",
+    "main.js.map": "/cat/static/js/main.93916035.chunk.js.map",
     "runtime-main.js": "/cat/static/js/runtime-main.738ab0d8.js",
     "runtime-main.js.map": "/cat/static/js/runtime-main.738ab0d8.js.map",
     "static/css/2.fe38e6c6.chunk.css": "/cat/static/css/2.fe38e6c6.chunk.css",
@@ -12,19 +12,20 @@
     "static/js/3.d6cfb73a.chunk.js.map": "/cat/static/js/3.d6cfb73a.chunk.js.map",
     "index.html": "/cat/index.html",
     "static/css/2.fe38e6c6.chunk.css.map": "/cat/static/css/2.fe38e6c6.chunk.css.map",
-    "static/css/main.45d96616.chunk.css.map": "/cat/static/css/main.45d96616.chunk.css.map",
+    "static/css/main.e8a2865f.chunk.css.map": "/cat/static/css/main.e8a2865f.chunk.css.map",
     "static/js/2.92d4afbf.chunk.js.LICENSE.txt": "/cat/static/js/2.92d4afbf.chunk.js.LICENSE.txt",
     "static/js/pdf.worker.entry.7dcf7ca7.worker.js": "/cat/static/js/pdf.worker.entry.7dcf7ca7.worker.js",
     "static/js/pdf.worker.entry.7dcf7ca7.worker.js.LICENSE.txt": "/cat/static/js/pdf.worker.entry.7dcf7ca7.worker.js.LICENSE.txt",
     "static/js/pdf.worker.entry.7dcf7ca7.worker.js.map": "/cat/static/js/pdf.worker.entry.7dcf7ca7.worker.js.map",
     "static/media/indagine-ambientale-aria-val-agri.39ed932e.pdf": "/cat/static/media/indagine-ambientale-aria-val-agri.39ed932e.pdf",
-    "static/media/Atmo.css": "/cat/static/media/point.3dcde443.png"
+    "static/media/Atmo.css": "/cat/static/media/map-5000.be5a9d48.png",
+    "static/media/Lito.css": "/cat/static/media/point.3dcde443.png"
   },
   "entrypoints": [
     "static/js/runtime-main.738ab0d8.js",
     "static/css/2.fe38e6c6.chunk.css",
     "static/js/2.92d4afbf.chunk.js",
-    "static/css/main.45d96616.chunk.css",
-    "static/js/main.d6356e58.chunk.js"
+    "static/css/main.e8a2865f.chunk.css",
+    "static/js/main.93916035.chunk.js"
   ]
 }
