@@ -1,29 +1,29 @@
 {
   "files": {
-    "main.css": "/cat/static/css/main.45d96616.chunk.css",
-    "main.js": "/cat/static/js/main.476ed339.chunk.js",
-    "main.js.map": "/cat/static/js/main.476ed339.chunk.js.map",
-    "runtime-main.js": "/cat/static/js/runtime-main.35cc0344.js",
-    "runtime-main.js.map": "/cat/static/js/runtime-main.35cc0344.js.map",
-    "static/css/2.fe38e6c6.chunk.css": "/cat/static/css/2.fe38e6c6.chunk.css",
-    "static/js/2.a22c5d59.chunk.js": "/cat/static/js/2.a22c5d59.chunk.js",
-    "static/js/2.a22c5d59.chunk.js.map": "/cat/static/js/2.a22c5d59.chunk.js.map",
-    "static/js/3.2bec4671.chunk.js": "/cat/static/js/3.2bec4671.chunk.js",
-    "static/js/3.2bec4671.chunk.js.map": "/cat/static/js/3.2bec4671.chunk.js.map",
-    "5fdb6bed873c8cb7b47b6ef86037a4a4.js": "/cat/5fdb6bed873c8cb7b47b6ef86037a4a4.js",
-    "5fdb6bed873c8cb7b47b6ef86037a4a4.js.LICENSE.txt": "/cat/5fdb6bed873c8cb7b47b6ef86037a4a4.js.LICENSE.txt",
-    "index.html": "/cat/index.html",
-    "static/css/2.fe38e6c6.chunk.css.map": "/cat/static/css/2.fe38e6c6.chunk.css.map",
-    "static/css/main.45d96616.chunk.css.map": "/cat/static/css/main.45d96616.chunk.css.map",
-    "static/js/2.a22c5d59.chunk.js.LICENSE.txt": "/cat/static/js/2.a22c5d59.chunk.js.LICENSE.txt",
-    "static/media/indagine-ambientale-aria-val-agri.39ed932e.pdf": "/cat/static/media/indagine-ambientale-aria-val-agri.39ed932e.pdf",
-    "static/media/Atmo.css": "/cat/static/media/point.3dcde443.png"
+    "main.css": "/cat/index.js/static/css/main.00aefb5a.chunk.css",
+    "main.js": "/cat/index.js/static/js/main.aab3c3bb.chunk.js",
+    "main.js.map": "/cat/index.js/static/js/main.aab3c3bb.chunk.js.map",
+    "runtime-main.js": "/cat/index.js/static/js/runtime-main.37239038.js",
+    "runtime-main.js.map": "/cat/index.js/static/js/runtime-main.37239038.js.map",
+    "static/css/2.fe38e6c6.chunk.css": "/cat/index.js/static/css/2.fe38e6c6.chunk.css",
+    "static/js/2.fedc3372.chunk.js": "/cat/index.js/static/js/2.fedc3372.chunk.js",
+    "static/js/2.fedc3372.chunk.js.map": "/cat/index.js/static/js/2.fedc3372.chunk.js.map",
+    "static/js/3.2bec4671.chunk.js": "/cat/index.js/static/js/3.2bec4671.chunk.js",
+    "static/js/3.2bec4671.chunk.js.map": "/cat/index.js/static/js/3.2bec4671.chunk.js.map",
+    "5fdb6bed873c8cb7b47b6ef86037a4a4.js": "/cat/index.js/5fdb6bed873c8cb7b47b6ef86037a4a4.js",
+    "5fdb6bed873c8cb7b47b6ef86037a4a4.js.LICENSE.txt": "/cat/index.js/5fdb6bed873c8cb7b47b6ef86037a4a4.js.LICENSE.txt",
+    "index.html": "/cat/index.js/index.html",
+    "static/css/2.fe38e6c6.chunk.css.map": "/cat/index.js/static/css/2.fe38e6c6.chunk.css.map",
+    "static/css/main.00aefb5a.chunk.css.map": "/cat/index.js/static/css/main.00aefb5a.chunk.css.map",
+    "static/js/2.fedc3372.chunk.js.LICENSE.txt": "/cat/index.js/static/js/2.fedc3372.chunk.js.LICENSE.txt",
+    "static/media/indagine-ambientale-aria-val-agri.39ed932e.pdf": "/cat/index.js/static/media/indagine-ambientale-aria-val-agri.39ed932e.pdf",
+    "static/media/Atmo.css": "/cat/index.js/static/media/point.3dcde443.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.35cc0344.js",
+    "static/js/runtime-main.37239038.js",
     "static/css/2.fe38e6c6.chunk.css",
-    "static/js/2.a22c5d59.chunk.js",
-    "static/css/main.45d96616.chunk.css",
-    "static/js/main.476ed339.chunk.js"
+    "static/js/2.fedc3372.chunk.js",
+    "static/css/main.00aefb5a.chunk.css",
+    "static/js/main.aab3c3bb.chunk.js"
   ]
 }
