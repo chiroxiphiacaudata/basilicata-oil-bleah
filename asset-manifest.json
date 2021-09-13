@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/cat/static/css/main.e2f55974.chunk.css",
-    "main.js": "/cat/static/js/main.45c4517e.chunk.js",
-    "main.js.map": "/cat/static/js/main.45c4517e.chunk.js.map",
+    "main.css": "/cat/static/css/main.f187fb32.chunk.css",
+    "main.js": "/cat/static/js/main.4f2a3309.chunk.js",
+    "main.js.map": "/cat/static/js/main.4f2a3309.chunk.js.map",
     "runtime-main.js": "/cat/static/js/runtime-main.0d15140c.js",
     "runtime-main.js.map": "/cat/static/js/runtime-main.0d15140c.js.map",
     "static/css/2.fe38e6c6.chunk.css": "/cat/static/css/2.fe38e6c6.chunk.css",
-    "static/js/2.8a92a50f.chunk.js": "/cat/static/js/2.8a92a50f.chunk.js",
-    "static/js/2.8a92a50f.chunk.js.map": "/cat/static/js/2.8a92a50f.chunk.js.map",
+    "static/js/2.b32297f2.chunk.js": "/cat/static/js/2.b32297f2.chunk.js",
+    "static/js/2.b32297f2.chunk.js.map": "/cat/static/js/2.b32297f2.chunk.js.map",
     "static/js/3.c2ba5de8.chunk.js": "/cat/static/js/3.c2ba5de8.chunk.js",
     "static/js/3.c2ba5de8.chunk.js.map": "/cat/static/js/3.c2ba5de8.chunk.js.map",
     "index.html": "/cat/index.html",
     "static/css/2.fe38e6c6.chunk.css.map": "/cat/static/css/2.fe38e6c6.chunk.css.map",
-    "static/css/main.e2f55974.chunk.css.map": "/cat/static/css/main.e2f55974.chunk.css.map",
-    "static/js/2.8a92a50f.chunk.js.LICENSE.txt": "/cat/static/js/2.8a92a50f.chunk.js.LICENSE.txt",
+    "static/css/main.f187fb32.chunk.css.map": "/cat/static/css/main.f187fb32.chunk.css.map",
+    "static/js/2.b32297f2.chunk.js.LICENSE.txt": "/cat/static/js/2.b32297f2.chunk.js.LICENSE.txt",
     "static/js/pdf.worker.entry.7dcf7ca7.worker.js": "/cat/static/js/pdf.worker.entry.7dcf7ca7.worker.js",
     "static/js/pdf.worker.entry.7dcf7ca7.worker.js.LICENSE.txt": "/cat/static/js/pdf.worker.entry.7dcf7ca7.worker.js.LICENSE.txt",
     "static/js/pdf.worker.entry.7dcf7ca7.worker.js.map": "/cat/static/js/pdf.worker.entry.7dcf7ca7.worker.js.map",
-    "static/media/Lito.css": "/cat/static/media/Li_articolo.dd997516.png",
+    "static/media/Lito.css": "/cat/static/media/grid-e.9caa3939.png",
     "static/media/[2021]-Petrolgate-Sentenza-Integrale-dati-oscurati.8813d9f8.pdf": "/cat/static/media/[2021]-Petrolgate-Sentenza-Integrale-dati-oscurati.8813d9f8.pdf",
     "static/media/essd-12-519-2020.ff6305e6.pdf": "/cat/static/media/essd-12-519-2020.ff6305e6.pdf",
     "static/media/indagine-ambientale-aria-val-agri.39ed932e.pdf": "/cat/static/media/indagine-ambientale-aria-val-agri.39ed932e.pdf",
@@ -28,8 +28,8 @@
   "entrypoints": [
     "static/js/runtime-main.0d15140c.js",
     "static/css/2.fe38e6c6.chunk.css",
-    "static/js/2.8a92a50f.chunk.js",
-    "static/css/main.e2f55974.chunk.css",
-    "static/js/main.45c4517e.chunk.js"
+    "static/js/2.b32297f2.chunk.js",
+    "static/css/main.f187fb32.chunk.css",
+    "static/js/main.4f2a3309.chunk.js"
   ]
 }
